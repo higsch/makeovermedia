@@ -2,5 +2,6 @@ ID;date;topic;publisher;media;problem;type-viz;type-chart;source-data;source-viz
 1;2021-02-11;covid;ARD Tagesschau;web;color choice (too similar);interactive;line;Robert Koch-Institute/eigeneBerechnungen;23degrees;23degrees;https://www.tagesschau.de/inland/coronavirus-karte-deutschland-101.html;./ARD/Tagesschau_Web/;tagesschau_covid_line_20210211.mp4;3 additional png files;Cedric
 2;2020-02-24;infrastructure;ZDF Zoom;video;colors choice (not consistent);static;pie;AllianzPro Schiene;NA;NA;NA;./ZDF/Zoom/;ZDF_zoom_20201210_pie.png;was recorded, correct date earlier;Cedric
 3;2020-02-24;infrastructure;ZDF Zoom;video;readability, perspectivity;static;line;AllianzPro Schiene;NA;NA;NA;./ZDF/Zoom/;ZDF_zoom_20201210_line.png;was recorded, correct date earlier;Cedric
-4;2020-12-10;train service;ZDF Zoom;video;readability;static;line;DB AG;NA;NA;https://www.zdf.de/dokumentation/zdfzoom/zdfzoom-die-bahn-im-deutschland-takt-100.html;./ZDF/Zoom/;ZDF_zoom_20201210_line.png;;Cedric
-5;2021-02-08;covid;Rheinpfalz;map;;interactive;map;;;;;./Rheinpfalz/;rheinpfalz_20210208_map.png;;Matthias
+4;2020-12-10;train service;ZDF Zoom;video;readability;static;line;DB AG;NA;NA;https://www.zdf.de/dokumentation/zdfzoom/zdfzoom-die-bahn-im-deutschland-takt-100.html;./ZDF/Zoom/;ZDF_zoom_20201210_line.png;NA;Cedric
+5;2021-02-08;covid;Rheinpfalz;web;NA;interactive;map;NA;NA;NA;NA;./Rheinpfalz/;rheinpfalz_20210208_map.png;NA;Matthias
+6;2021-02-20;sport;ZDF das aktuelle sportstudio;video;readability;static;map;NA;NA;NA;NA;/ZDF/sportstudio/;zdf_sportschau_20210220_map.jpg;NA;Cedric
