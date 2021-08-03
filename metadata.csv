@@ -8,3 +8,5 @@ ID;date;topic;publisher;media;problem;type-viz;type-chart;source-data;source-viz
 7;2021/03/16;covid;ARD Tagesschau;video;pie chart, 3D;static;pie;Bundesgesundheitsministerium;NA;NA;NA;./ARD/Tagesschau/;tagesschau_20210316.jpg;NA;Cedric
 8;2021/03/29;covid;ARD Tagesschau;web;labels;interactive;bar;impfdashboard;23degrees;23degrees;NA;./ARD/Tagesschau_Web/;tagesschau_20210329.png, tagesschau_20210329_2.png;NA;Cedric
 9;2021/04/09;covid;ARD Tagesschau;web;color choice (not consistent);interactive;map;Robert Koch-Institut;OpenStreetMap.org;Mapbox;NA;./ARD/Tagesschau_Web/;tagesschau_via_linkedin.jpg;via LinkedIn: https://www.linkedin.com/posts/tiziankronsbein_data-datavisualization-misinformation-activity-6787356415456497664-s_AE;Cedric
+10;2021/05/21;war;Die Zeit;web;readability;static;bar;Landmine Monitor Report/landmine.de;NA;https://www.zeit.de/2021/22/landminen-weltweit-vorkommen-opfer-vertrag-von-ottawa;./DieZeit;zeit_20210528_bars.png;NA;Cedric
+10;2021/05/21;war;Die Zeit;web;readability;static;pie;Landmine Monitor Report/landmine.de;NA;https://www.zeit.de/2021/22/landminen-weltweit-vorkommen-opfer-vertrag-von-ottawa;./DieZeit;zeit_20210528_pie.png;NA;Cedric
